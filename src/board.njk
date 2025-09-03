@@ -15,7 +15,10 @@ permalink: /board/index.html
     <article class="card {% if post.data.pinned %}pinned{% endif %}">
       {% if post.data.pinned %}<div class="badge">📌 Angepinnt</div>{% endif %}
       <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
-      <p class="muted">{{ post.date | date: "%d.%m.%Y" }}{% if post.data.expires %} · gültig bis {{ post.data.expires | date: "%d.%m.%Y %H:%M" }}{% endif %}</p>
+      <p class="muted">
+  {{ post.date | date("%d.%m.%Y") }}
+  {% if post.data.expires %} · gültig bis {{ post.data.expires | date("%d.%m.%Y %H:%M") }}{% endif %}
+</p>
       <div class="content">{{ post.templateContent | safe }}</div>
       {% if post.data.tags %}
       <p>{% for t in post.data.tags %}<span class="badge">#{{ t }}</span>{% endfor %}</p>
