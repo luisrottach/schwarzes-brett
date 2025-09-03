@@ -7,7 +7,7 @@ pinned: false
 tags: []
 files: []
 ---
-<img src="/uploads/240605_rottach_logo_jpeg_farbig_v02.jpg" alt="Logo" width="500">
+<img src="/uploads/240605_rottach_logo_jpeg_farbig_v02.jpg" alt="Logo" width="450">
 
 * # Bitte Lesen-Beachten-Notieren!
 * # Please read, take & make a note!
