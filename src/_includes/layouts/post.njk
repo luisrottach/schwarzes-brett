@@ -4,7 +4,10 @@ layout: base.njk
 ---
 <article class="card {% if pinned %}pinned{% endif %}">
   <h2>{{ title }}</h2>
-  <p class="muted">Veröffentlicht am {{ date | date: "%d.%m.%Y" }}{% if expires %} · gültig bis {{ expires | date: "%d.%m.%Y %H:%M" }}{% endif %}</p>
+ <p class="muted">
+  Veröffentlicht am {{ date | date("%d.%m.%Y") }}
+  {% if expires %} · gültig bis {{ expires | date("%d.%m.%Y %H:%M") }}{% endif %}
+</p>
   <div class="content">
     {{ content | safe }}
   </div>
