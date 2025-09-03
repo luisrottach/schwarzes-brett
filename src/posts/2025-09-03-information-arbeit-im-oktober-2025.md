@@ -5,8 +5,4 @@ pinned: false
 files:
   - /uploads/an-alle-mitarbeiter.pdf
 ---
-Bitte Lesen und Warnehmen + Notieren
-
-Please read, take note, and make a note.
-
-Proszę przeczytać, zapamiętać i zanotować.
+\---------
