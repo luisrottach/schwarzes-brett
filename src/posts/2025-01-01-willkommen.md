@@ -2,9 +2,8 @@
 title: Willkommen am Schwarzen Brett
 date: 2025-09-03
 layout: post.njk
-pinned: true
-tags:
-  - info
+pinned: false
+tags: []
 files: []
 ---
 Bitte Lesen und Warnehmen + Notieren
