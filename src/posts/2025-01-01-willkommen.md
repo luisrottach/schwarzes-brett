@@ -1,6 +1,6 @@
 ---
 title: Willkommen am Schwarzen Brett
-date: 2025-09-03 07:11
+date: 2025-09-03
 layout: post.njk
 pinned: true
 tags: ["info"]
