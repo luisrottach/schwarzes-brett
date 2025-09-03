@@ -16,8 +16,7 @@ files: []
 * # Kérjük, olvassa el, vegye figyelembe és jegyezze fel!
 * # Prosimo, preberite, upoštevajte in si zabeležite!
 
-# 
-[\    Schwarzes Brett - Rottach Oberstaufen KG](https://rottachblechverarbeitung-my.sharepoint.com/:f:/g/personal/luis_rottach_rottach_com/EoDReR-Dl-lBi2xicdX9jGIBR9bj1dfe_F8iLX_6a4fTEw?e=RdQDa5)
+# **[Schwarzes Brett - Rottach Oberstaufen KG](https://rottachblechverarbeitung-my.sharepoint.com/:f:/g/personal/luis_rottach_rottach_com/EoDReR-Dl-lBi2xicdX9jGIBR9bj1dfe_F8iLX_6a4fTEw?e=RdQDa5)**
 
 [](https://rottachblechverarbeitung-my.sharepoint.com/:f:/g/personal/luis_rottach_rottach_com/EoDReR-Dl-lBi2xicdX9jGIBlR9bg1O_jlGwcac7peA-Xw?e=hbQGd0)
 [](https://rottachblechverarbeitung-my.sharepoint.com/:f:/g/personal/luis_rottach_rottach_com/EoDReR-Dl-lBi2xicdX9jGIBlR9bg1O_jlGwcac7peA-Xw?e=uAQFsi)
