@@ -7,6 +7,18 @@
     <title>{{ title or "Schwarzes Brett" }}</title>
     <link rel="stylesheet" href="/styles.css" />
   </head>
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", (user) => {
+      const h = window.location.hash || "";
+      // Invite-Link erkannt? Dann Signup-Dialog öffnen
+      if (!user && (h.includes("invite") || h.includes("invite_token"))) {
+        window.netlifyIdentity.open("signup");
+      }
+    });
+  }
+</script>
   <body>
     <header class="container">
       <h1><a href="/board/">Schwarzes Brett</a></h1>
