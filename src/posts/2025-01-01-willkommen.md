@@ -15,3 +15,11 @@ files: []
 * # Пожалуйста, прочтите, обратите внимание и запишите!
 * # Kérjük, olvassa el, vegye figyelembe és jegyezze fel!
 * # Prosimo, preberite, upoštevajte in si zabeležite!
+
+
+
+
+
+# 
+[](https://rottachblechverarbeitung-my.sharepoint.com/:f:/g/personal/luis_rottach_rottach_com/EoDReR-Dl-lBi2xicdX9jGIBlR9bg1O_jlGwcac7peA-Xw?e=hbQGd0)
+[Schwarzes Brett - Rottach Oberstaufen KG](https://rottachblechverarbeitung-my.sharepoint.com/:f:/g/personal/luis_rottach_rottach_com/EoDReR-Dl-lBi2xicdX9jGIBlR9bg1O_jlGwcac7peA-Xw?e=uAQFsi)
