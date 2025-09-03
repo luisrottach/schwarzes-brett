@@ -24,6 +24,22 @@ module.exports = function(eleventyConfig) {
     if (!dateStr) return false;
     return new Date(dateStr) < new Date();
   });
+  
+// --- Zusatzfilter für Nunjucks ---
+eleventyConfig.addFilter("split", (value, sep="/") => {
+  if (value == null) return [];
+  return String(value).split(sep);
+});
+eleventyConfig.addFilter("last", (value) => {
+  if (Array.isArray(value) && value.length) return value[value.length - 1];
+  if (typeof value === "string") return value.slice(-1);
+  return "";
+});
+// Komfort: Dateiname aus Pfad
+eleventyConfig.addFilter("basename", (p) => {
+  if (!p && p !== 0) return "";
+  return String(p).split("/").pop();
+});
 
   // Sammlung: aktive Posts (angepinnt zuerst, dann neueste)
   eleventyConfig.addCollection("activePosts", (collectionApi) => {
