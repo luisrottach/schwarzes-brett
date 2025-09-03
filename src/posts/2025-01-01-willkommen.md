@@ -5,7 +5,8 @@ date: 2025-09-03
 layout: post.njk
 pinned: false
 tags: []
-files: []
+files:
+  - https://rottachblechverarbeitung-my.sharepoint.com/:f:/g/personal/luis_rottach_rottach_com/EoDReR-Dl-lBi2xicdX9jGIBlR9bg1O_jlGwcac7peA-Xw?e=wGHK4z
 ---
 ![](/uploads/240605_rottach_logo_jpeg_farbig_v02.jpg)
 
